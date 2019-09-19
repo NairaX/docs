@@ -4,7 +4,7 @@ Project NairaX and all related documentation. All information hosted here are fu
 Docs to be hosted
 1) Whitepaper
 2) Token Paper
-3) Legal token backing docs
+3) Legal token backing docs (To be hosted after smart-contract audit)
 4) CAC reg docs
 5) Tax reg docs
 
