@@ -1,7 +1,7 @@
 # docs
 Project NairaX and all related documentation. All information hosted here are fully copyrighted 
 
-Docs to be hosted
+Docs hosted
 1) Whitepaper
 2) Token Paper
 3) Legal token backing docs (To be hosted after smart-contract audit)
